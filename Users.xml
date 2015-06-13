@@ -1,0 +1,12 @@
+<users>
+  <user>
+    <name>myro</name>
+    <password>myro</password>
+    <accessLevel>user</accessLevel>
+  </user>
+  <user>
+    <name>admin</name>
+    <password>admin</password>
+    <accessLevel>user</accessLevel>
+  </user>
+</users>
